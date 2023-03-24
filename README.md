@@ -23,7 +23,7 @@ source devel/setup.bash
 
 
 ```console
-roslaunch turtle_snake_game start.launch
+roslaunch sketch sketcher.launch
 ```
 
 
