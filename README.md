@@ -14,7 +14,7 @@ To run the game, clone the package in your catkin workspace, and use the launch 
 
 ```console
 cd ~/catkin_ws/src
-git clone https://github.com/sakthibalanv/TurtleSim_Snake_Game.git
+git clone https://github.com/Jakubach/TurtleSim_Snake_Game.git
 cd ~/catkin_ws
 catkin_make
 source devel/setup.bash
